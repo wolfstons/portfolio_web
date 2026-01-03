@@ -6,9 +6,11 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    background-color: #f4f4f4;
+    background-image: url('kepek/pexels-pixabay-158826.jpg');
+    background-size: cover;
+    background-position: center;
     color: #333;
+    line-height: 1.6;
 }
 
 img {
